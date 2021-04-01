@@ -8115,7 +8115,7 @@ xmlbuilder@~11.0.0:
   resolved "https://registry.npm.taobao.org/xmlbuilder/download/xmlbuilder-11.0.1.tgz#be9bae1c8a046e76b31127726347d0ad7002beb3"
   integrity sha1-vpuuHIoEbnazESdyY0fQrXACvrM=
 
-xmldom@0.2.1, xmldom@=0.1.15, xmldom@=0.1.19, xmldom@^0.3.0, "xmldom@github:auth0/xmldom#v0.1.19-auth0_1", xmldom@~0.1.15:
+xmldom@0.2.1, xmldom@=0.1.15, xmldom@=0.1.19, xmldom@^0.3.0, xmldom@auth0/xmldom#v0.1.19-auth0_1, xmldom@~0.1.15:
   version "0.2.1"
   resolved "https://registry.npm.taobao.org/xmldom/download/xmldom-0.2.1.tgz#cac9465066f161e1c3302793ea4dbe59c518274f"
   integrity sha1-yslGUGbxYeHDMCeT6k2+WcUYJ08=
@@ -8151,9 +8151,9 @@ xtend@^4.0.0, xtend@^4.0.2:
   integrity sha1-u3J3n1+kZRhrH0OPZ0+jR/2121Q=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npm.taobao.org/y18n/download/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 y18n@^4.0.0:
   version "4.0.0"
